@@ -10,3 +10,13 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+------------
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
