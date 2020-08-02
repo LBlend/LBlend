@@ -1,3 +1,10 @@
+name: Recent Activity Readme Stats
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
 jobs:
   publish:
     runs-on: ubuntu-latest
