@@ -2,7 +2,6 @@
 
 Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics: Language Technology](https://translate.google.no/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.uio.no%2Fstudier%2Fprogram%2Finformatikk-sprakteknologi%2Findex.html) at [The University of Oslo](https://www.uio.no/english/).
 
-------------
 
 ## Languages & Technologies
 
@@ -14,7 +13,6 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 <br>
 🇪🇸 Spanish - A1/A2
 
-------------
 
 ## Stats
 
@@ -104,7 +102,7 @@ HTML         1 repos        ███░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### My activity:
+## Recent Activity:
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
