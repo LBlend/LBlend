@@ -30,8 +30,15 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBlend" />
 </a>
 
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
