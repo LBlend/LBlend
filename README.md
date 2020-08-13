@@ -45,7 +45,7 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-221953%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-218030%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,13 +88,15 @@ Sunday       85 commits     ███████░░░░░░░░░░�
 ⌚︎ Timezone: Europe/Paris
 
 💬 Languages: 
-Python                   2 mins              █████████████████████████   100.0%
+Python                   34 mins             ██████████████████████░░░   88.91% 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  38 mins             █████████████████████████   100.0%
 
 💻 Operating Systems: 
-Windows                  2 mins              █████████████████████████   100.0%
+Windows                  38 mins             █████████████████████████   100.0%
 
 ```
 
