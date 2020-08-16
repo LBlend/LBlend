@@ -45,21 +45,21 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-222200%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199226%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 178 Contributions in year 2020
+> 🏆 178 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 8 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
@@ -68,7 +68,7 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 🌙 Night      125 commits    ███████████░░░░░░░░░░░░░░   44.17%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
@@ -82,26 +82,26 @@ Sunday       85 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Paris
+⌚︎ Time zone: Europe/Paris
 
-💬 Languages: 
+💬 Programming Languages: 
 HTML                     3 hrs 19 mins       ███████████████░░░░░░░░░░   61.16% 
 CSS                      1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.3% 
 Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  5 hrs 26 mins       █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  5 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████████████░░░░░░░░   71.43% 
