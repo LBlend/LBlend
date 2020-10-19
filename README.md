@@ -45,11 +45,11 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79616%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234996%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 212 Contributions in the Year 2020
+> 🏆 213 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
