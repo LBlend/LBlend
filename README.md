@@ -9,7 +9,9 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
   <strong><a href="https://steamcommunity.com/id/lblend">Steam</a></strong>
 </p>
 
-![](dance.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LBlend/LBlend/master/dance.gif">
+</div>
 
 ## Languages & Technologies
 
