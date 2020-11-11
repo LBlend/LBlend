@@ -2,7 +2,7 @@
 
 Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics: Language Technology](https://translate.google.no/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.uio.no%2Fstudier%2Fprogram%2Finformatikk-sprakteknologi%2Findex.html) at the [University of Oslo](https://www.uio.no/english/).
 
-* [GPG Key](https://gist.githubusercontent.com/LBlend/01074be02600b957f5e4e3b4389b27d9/raw/ab43066c503b94e1bdf4b1ea1d91bf9a407aa45c/public.key)
+* [GPG Key](https://gist.githubusercontent.com/LBlend/01074be02600b957f5e4e3b4389b27d9/raw/721dba159c3474344c8a3bd91e89db2c076a264f/lblend.gpg)
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website</a></strong> |
