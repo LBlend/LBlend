@@ -2,7 +2,7 @@
 
 Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics: Language Technology](https://translate.google.no/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.uio.no%2Fstudier%2Fprogram%2Finformatikk-sprakteknologi%2Findex.html) at the [University of Oslo](https://www.uio.no/english/).
 
-* [GPG Key](https://gist.github.com/LBlend/01074be02600b957f5e4e3b4389b27d9)
+* [PGP Key](https://gist.github.com/LBlend/01074be02600b957f5e4e3b4389b27d9)
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website</a></strong> |
@@ -24,9 +24,9 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 
 ## Stats
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/LBlend)
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
