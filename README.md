@@ -1,8 +1,6 @@
 # Morn 👋
 
-Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics: Language Technology](https://translate.google.no/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.uio.no%2Fstudier%2Fprogram%2Finformatikk-sprakteknologi%2Findex.html) at the [University of Oslo](https://www.uio.no/english/).
-
-🔑 [PGP Key](https://gist.github.com/LBlend/01074be02600b957f5e4e3b4389b27d9)
+Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics](https://translate.google.com/translate?sl=auto&tl=en&u=https://www.mn.uio.no/studier/programmer/fritt-sammensatt-bachelorgrad-realfag.html) at the [University of Oslo](https://www.uio.no/english/).
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website</a></strong> |
@@ -10,6 +8,31 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
   <strong><a href="https://www.youtube.com/channel/UCBXEB_WzQIzF98gMNw8xAEQ">YouTube</a></strong> |
   <strong><a href="https://steamcommunity.com/id/lblend">Steam</a></strong>
 </p>
+
+
+🔑 [PGP Key](https://gist.github.com/LBlend/01074be02600b957f5e4e3b4389b27d9)
+
+
+### Desktop:
+
+🖥 **Machine:** Custom built
+
+🐧 OS: Pop!_OS 20.04
+
+### Laptop:
+
+💻 **Machine:** Lenovo Ideapad Flex 5
+
+🐧 **OS:** Manjaro 20.04 KDE
+
+
+### Misc
+
+* **Editor?** VSCode
+* **Tabs or spaces?** tabs
+* **Favourite shortcut key?** Can't decide. CTRL-SHIFT-T, CTRL-W, CTRL-L (VScode), SUPER-E
+* **Favourite programming language**: Python, because that's what I'm comfortable with. Easy, readable syntax.
+
 
 ## Languages & Technologies
 
