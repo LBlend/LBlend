@@ -1,6 +1,6 @@
 # Morn 👋
 
-Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently studying [Informatics](https://translate.google.com/translate?sl=auto&tl=en&u=https://www.mn.uio.no/studier/programmer/fritt-sammensatt-bachelorgrad-realfag.html) at the [University of Oslo](https://www.uio.no/english/).
+Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway. I'm currently an undergraduate at the [University of Oslo](https://www.uio.no/english/) studying [Informatics](https://en.wikipedia.org/wiki/Informatics). As of writing this my interests within the computer science space are operating systems and lower level programming.
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website</a></strong> |
