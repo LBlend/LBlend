@@ -1,6 +1,6 @@
 # Morn 👋
 
-Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway who is currently an undergraduate at the [University of Oslo](https://www.uio.no/english/) where I study [Informatics](https://en.wikipedia.org/wiki/Informatics).
+Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from Norway who is currently an undergraduate at the [University of Oslo](https://www.uio.no/english/) where I study [Informatics](https://en.wikipedia.org/wiki/Informatics#Cultural_gap:~:text=European%20informatics%20is%20widely%20understood%20computer,computing%20jobs%20in%20bussiness%20and%20industry.).
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website</a></strong> |
@@ -39,51 +39,7 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94894%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
-🌆 Daytime    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-🌃 Evening    122 commits    █████████░░░░░░░░░░░░░░░░   38.24% 
-🌙 Night      131 commits    ██████████░░░░░░░░░░░░░░░   41.07%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Tuesday      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
-Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Friday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Saturday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Sunday       78 commits     ██████░░░░░░░░░░░░░░░░░░░   24.45%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Python                   4 hrs 29 mins       ████████████████░░░░░░░░░   63.93% 
-JavaScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94% 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
-
-🔥 Editors: 
-VS Code                  7 hrs               █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  7 hrs               █████████████████████████   100.0% 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
 
 
 <!--END_SECTION:waka-->
