@@ -39,4 +39,13 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 13 December, 2020 - 20 December, 2020
+
+Python       6 hrs 19 mins   █████████████████████▓░░░   86.75 % 
+YAML         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```
 <!--END_SECTION:waka-->
