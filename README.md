@@ -39,7 +39,4 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
