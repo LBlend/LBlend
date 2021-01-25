@@ -22,15 +22,13 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
   🇪🇸 Spanish - A1/A2
 </p>
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a><a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a><a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a><a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 
 
 ### Misc
 
 * **Editor?** VSCode
-* **Tabs or spaces?** tabs
-* **Favourite shortcut key?** Can't decide. CTRL-SHIFT-T, CTRL-W, CTRL-L (VScode), SUPER-E
-* **Favourite programming language**: Python, because that's what I'm comfortable with. Easy, readable syntax.
+* **Tabs or spaces?** Tabs, but converted to spaces by the text editor
 
 
 ## Stats
