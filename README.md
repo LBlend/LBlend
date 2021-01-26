@@ -41,7 +41,7 @@ Hi, I go by the name **LBlend** on the internet. I'm a 20 year-old loser from No
 
 **🐱 My Github Data** 
 
-> 🏆 89 Contributions in the Year 2021
+> 🏆 90 Contributions in the Year 2021
  > 
 > 📦 54.2 kB Used in Github's Storage 
  > 
