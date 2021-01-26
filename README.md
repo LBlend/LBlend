@@ -77,8 +77,6 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 Java                     9 hrs 13 mins       █████████████████░░░░░░░░   69.36% 
 JavaScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
@@ -91,10 +89,6 @@ Linux                    12 hrs 33 mins      ███████████�
 Windows                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/LBlend/LBlend/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
