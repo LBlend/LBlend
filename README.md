@@ -36,11 +36,11 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 20 year-old student
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9374%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10238%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 270 Contributions in the Year 2021
+> 🏆 271 Contributions in the Year 2021
  > 
 > 📦 54.8 kB Used in Github's Storage 
  > 
