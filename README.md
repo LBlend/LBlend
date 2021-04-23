@@ -36,19 +36,19 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 20 year-old student
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10306%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22458%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 321 Contributions in the Year 2021
+> 🏆 337 Contributions in the Year 2021
  > 
-> 📦 54.9 kB Used in Github's Storage 
+> 📦 55.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -77,11 +77,11 @@ Sunday       56 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     14 hrs 23 mins      ███████████████████████░░   92.07% 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+Java                     14 hrs 27 mins      ████████████████░░░░░░░░░   67.19% 
+TypeScript               2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+CSS                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Other                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 ```
 
