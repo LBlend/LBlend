@@ -36,17 +36,17 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22920%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25845%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 485 Contributions in the Year 2021
+> 🏆 513 Contributions in the Year 2021
  > 
-> 📦 55.7 kB Used in Github's Storage 
+> 📦 55.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -77,11 +77,11 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 40 mins      █████████████████████░░░░   84.46% 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
+Python                   10 hrs 39 mins      ██████████████████░░░░░░░   73.18% 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+TypeScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 ```
 
