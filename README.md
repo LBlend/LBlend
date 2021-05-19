@@ -36,19 +36,19 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22997%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 521 Contributions in the Year 2021
+> 🏆 540 Contributions in the Year 2021
  > 
-> 📦 55.8 kB Used in Github's Storage 
+> 📦 172.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -77,11 +77,11 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 53 mins       █████████████░░░░░░░░░░░░   55.24% 
-Rust                     2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+Python                   5 hrs 9 mins        ████████████░░░░░░░░░░░░░   50.74% 
+Rust                     3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.2% 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 ```
 
