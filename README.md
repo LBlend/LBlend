@@ -43,7 +43,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 > 🏆 575 Contributions in the Year 2021
  > 
-> 📦 172.7 kB Used in Github's Storage 
+> 📦 172.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
