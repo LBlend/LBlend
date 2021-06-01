@@ -22,7 +22,38 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
   🇪🇸 Spanish - A1/A2
 </p>
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a><a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a><a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/></a><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
+
+## Technologies
+
+### Familiar with
+
+*Technologies I have used extensively*
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+
+
+### Have dipped my toes into
+
+*Technologies that I have used, but not extensively*
+
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/></a>
+
+
+### Learning
+
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
+
 
 
 ### Misc
@@ -32,6 +63,10 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 
 ## Stats
+
+<details>
+  
+  <summary>Expand</summary>
 
 [![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/LBlend)
 
@@ -88,3 +123,5 @@ HTML                     0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+  
+ </details>
