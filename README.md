@@ -52,6 +52,8 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 ### Learning
 
+*Technologies that I am in the process of learning or wanting to do a project in*
+
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 
