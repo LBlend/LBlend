@@ -124,7 +124,7 @@ HTML                     4 hrs 29 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
   
  </details>
