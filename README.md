@@ -3,7 +3,7 @@
 Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student from Norway who is currently an undergraduate at the [University of Oslo](https://www.uio.no/english/). I study [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.), also knwon as computer science, and I'm looking to hone my skills and create cool/interesting projects!
 
 <p align="center">
-  <strong><a href="https://lblend.moe">Website</a></strong> |
+  <strong><a href="https://lblend.moe">Website (WIP)</a></strong> |
   <strong><a href="https://www.linkedin.com/in/leander-west-furumo/">LinkedIn</a></strong> |
   <strong><a href="https://twitter.com/LeanderFurumo">Twitter</a></strong> |
   <strong><a href="https://discord.com/users/170506717140877312">Discord</a></strong> 
