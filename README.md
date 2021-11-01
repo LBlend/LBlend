@@ -61,7 +61,7 @@ Scheme
 
 
 
-### Misc
+## Misc
 
 * **Editor?** VSCode
 * **OS?** Manjaro KDE on laptop | Windows 10 on desktop
