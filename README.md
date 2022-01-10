@@ -33,6 +33,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 
@@ -41,7 +42,6 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 
 *Technologies that I have used, but not extensively*
 
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
