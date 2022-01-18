@@ -58,9 +58,9 @@ Scheme
 
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/></a>
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 
-
-### Future endeavors
+### Potential future endeavors
 
 *Technologies that I want to take a look at in the future*
 
