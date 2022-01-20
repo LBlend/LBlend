@@ -49,7 +49,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 21 year-old student
 <a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/></a>
-Scheme
+<a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a>
 
 
 ### Learning
@@ -64,10 +64,16 @@ Scheme
 
 *Technologies that I want to take a look at in the future*
 
+<a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
+
+An overarching goal is to learn:
+* A pure functional language
+* A logic programming language
+* An array programming language
+* A stack-based language
 
 
 ## Misc
