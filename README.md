@@ -78,7 +78,7 @@ An overarching goal is to learn:
 
 ## Misc
 
-* **Editor?** VSCode
+* **Editor?** VSCode, now with VIM keybinds (we'll see how long I'll last)
 * **OS?** Manjaro KDE on laptop | Windows 10 on desktop
 
 
