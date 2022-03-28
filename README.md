@@ -92,6 +92,8 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -142,7 +144,7 @@ JavaScript               8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/03/2022 06:07:44 UTC
+ Last Updated on 28/03/2022 06:16:09 UTC
 <!--END_SECTION:waka-->
   
  </details>
