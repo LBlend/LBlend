@@ -44,6 +44,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 22 year-old student
 *Technologies that I have used, but not extensively*
 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
@@ -58,7 +59,6 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 22 year-old student
 
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/></a>
-<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 
 ### Potential future endeavors
 
