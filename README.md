@@ -91,6 +91,8 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C113%20hrs%2021%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -141,7 +143,7 @@ ObjectiveC               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/05/2022 06:08:46 UTC
+ Last Updated on 06/05/2022 06:17:26 UTC
 <!--END_SECTION:waka-->
   
  </details>
