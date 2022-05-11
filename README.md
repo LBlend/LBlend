@@ -91,7 +91,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -143,7 +143,7 @@ JSON                     3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/05/2022 06:08:29 UTC
+ Last Updated on 11/05/2022 06:17:01 UTC
 <!--END_SECTION:waka-->
   
  </details>
