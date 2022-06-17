@@ -92,7 +92,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -100,7 +100,7 @@ An overarching goal is to learn:
 
 > 🏆 854 Contributions in the Year 2022
  > 
-> 📦 251.5 kB Used in GitHub's Storage 
+> 📦 251.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -144,7 +144,7 @@ Bash                     2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/06/2022 06:36:11 UTC
+ Last Updated on 17/06/2022 06:10:44 UTC
 <!--END_SECTION:waka-->
   
  </details>
