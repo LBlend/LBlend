@@ -92,7 +92,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -100,7 +100,7 @@ An overarching goal is to learn:
 
 > 🏆 890 Contributions in the Year 2022
  > 
-> 📦 251.6 kB Used in GitHub's Storage 
+> 📦 251.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -135,16 +135,16 @@ Sunday       174 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 25 mins       ████████████████░░░░░░░░░   66.0% 
-Rust                     2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   30.8% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+Python                   4 hrs 47 mins       ████████████████████░░░░░   82.24% 
+Rust                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
 
- Last Updated on 03/07/2022 06:19:18 UTC
+ Last Updated on 04/07/2022 06:15:55 UTC
 <!--END_SECTION:waka-->
   
  </details>
