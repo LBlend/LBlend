@@ -92,7 +92,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -144,7 +144,7 @@ Rust                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/07/2022 06:11:50 UTC
+ Last Updated on 14/07/2022 06:17:57 UTC
 <!--END_SECTION:waka-->
   
  </details>
