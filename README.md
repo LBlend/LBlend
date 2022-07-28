@@ -92,7 +92,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -140,7 +140,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2022 06:10:53 UTC
+ Last Updated on 28/07/2022 06:19:28 UTC
 <!--END_SECTION:waka-->
   
  </details>
