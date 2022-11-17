@@ -92,15 +92,15 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 910 Contributions in the Year 2022
  > 
-> 📦 251.7 kB Used in GitHub's Storage 
+> 📦 251.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -135,16 +135,16 @@ Sunday       179 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 59 mins      ████████████████████░░░░░   82.14% 
-Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-Scheme                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Python                   21 hrs 5 mins       ███████████████████████░░   93.97% 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 ```
 
 
- Last Updated on 16/11/2022 06:25:18 UTC
+ Last Updated on 17/11/2022 06:11:32 UTC
 <!--END_SECTION:waka-->
   
  </details>
