@@ -10,11 +10,6 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 22 year-old student
 </p>
 
 <p align="center">
-  <strong><a href="mailto:leanderfurumo@gmail.com">📬 E-mail</a></strong> |
-  <strong><a href="https://gist.github.com/LBlend/01074be02600b957f5e4e3b4389b27d9">🔑 PGP Key</a></strong>
-</p>
-
-<p align="center">
   🇳🇴 Norwegian - Native
   <br>
   🇬🇧 English - Fluent
