@@ -5,7 +5,6 @@ Hi there! I go by the name **LBlend** on the internet. I'm a 22 year-old student
 <p align="center">
   <strong><a href="https://lblend.moe">Website (WIP)</a></strong> |
   <strong><a href="https://www.linkedin.com/in/leander-west-furumo/">LinkedIn</a></strong> |
-  <strong><a href="https://twitter.com/LeanderFurumo">Twitter</a></strong> |
   <strong><a href="https://discord.com/users/170506717140877312">Discord</a></strong> 
 </p>
 
