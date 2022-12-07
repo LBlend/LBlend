@@ -88,13 +88,13 @@ An overarching goal is to learn:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1,131 Contributions in the Year 2022
  > 
-> 📦 303.0 kB Used in GitHub's Storage 
+> 📦 303.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -135,7 +135,7 @@ Text                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/12/2022 21:08:13 UTC
+ Last Updated on 07/12/2022 06:12:42 UTC
 <!--END_SECTION:waka-->
   
  </details>
