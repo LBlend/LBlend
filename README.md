@@ -86,7 +86,7 @@ An overarching goal is to learn:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -138,7 +138,7 @@ Lua                      41 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/12/2022 06:12:31 UTC
+ Last Updated on 21/12/2022 06:21:19 UTC
 <!--END_SECTION:waka-->
   
  </details>
