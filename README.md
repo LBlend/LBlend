@@ -88,7 +88,7 @@ An overarching goal is to learn:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -129,14 +129,12 @@ Sunday       198 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   24 mins             ███████████████████████░░   95.0% 
-netrw                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 28/01/2023 06:09:09 UTC
+ Last Updated on 29/01/2023 06:08:59 UTC
 <!--END_SECTION:waka-->
   
  </details>
