@@ -88,13 +88,13 @@ An overarching goal is to learn:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2023
  > 
-> 📦 303.2 kB Used in GitHub's Storage 
+> 📦 303.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,16 +129,16 @@ Sunday         198 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ████████████░░░░░░░░░░░░░   48.36 % 
-Text                     13 mins             █████████░░░░░░░░░░░░░░░░   38.80 % 
-Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Vim Script               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Text                     13 mins             ███████████████████░░░░░░   77.38 % 
+Lua                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Vim Script               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 ```
 
 
- Last Updated on 08/02/2023 06:28:04 UTC
+ Last Updated on 09/02/2023 06:09:48 UTC
 <!--END_SECTION:waka-->
   
  </details>
