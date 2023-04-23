@@ -1,6 +1,6 @@
 # Morn 👋
 
-Hi there! I go by the name **LBlend** on the internet. I'm a 22 year-old student from Norway who is currently an undergraduate at the [University of Oslo](https://www.uio.no/english/). I'm pursuing a degree in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.), also known as computer science, and I'm looking to hone my skills and create cool/interesting projects!
+Hi there! I go by the name **LBlend** on the internet. I'm a student from Norway who is currently an undergraduate at the [University of Oslo](https://www.uio.no/english/). I'm pursuing a degree in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.), also known as computer science, and I'm looking to hone my skills and create cool/interesting projects!
 
 <p align="center">
   <strong><a href="https://lblend.moe">Website (WIP)</a></strong> |
