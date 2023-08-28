@@ -63,67 +63,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a student from Norway
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
 
-An overarching goal is to learn:
-* A purely functional language
-* A logic programming language
-* An array programming language
-* A stack-based language
 
+## Config
 
-## Misc
-
-* **Editor?** VSCode, now with VIM keybinds (we'll see how long I'll last)
-* **OS?** Manjaro KDE on laptop | Windows 10 on desktop
-
-
-## Stats
-
-<details>
-  
-  <summary>Show</summary>
-
-[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/LBlend)[![](https://raw.githubusercontent.com/LBlend/LBlend/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/LBlend)
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2022%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.2%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 303.5 kB Used in GitHub's Storage 
- > 
-> 🏆 186 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Tuesday                  833 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Wednesday                639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 862 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Friday                   713 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Saturday                 404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Sunday                   626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 26/08/2023 06:04:54 UTC
-<!--END_SECTION:waka-->
-  
- </details>
+Check out my [dptfiles](https://github.com/LBlend/dotfiles) repo
