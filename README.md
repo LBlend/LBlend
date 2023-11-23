@@ -13,7 +13,7 @@ Hi there! I go by the name **LBlend** on the internet. I'm a student from Norway
   <br>
   🇬🇧 English - Fluent
   <br>
-  🇰🇷 Korean - A1/A2
+  🇰🇷 Korean - A2/B1
   <br>
   🇪🇸 Spanish - A1/A2
 </p>
