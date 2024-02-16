@@ -68,4 +68,4 @@ Hi there! I go by the name **LBlend** on the internet. I'm a student from Norway
 
 ## Config
 
-Check out my [dptfiles](https://github.com/LBlend/dotfiles) repo
+Check out my [dotfiles](https://github.com/LBlend/dotfiles) repo
