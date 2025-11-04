@@ -45,23 +45,6 @@ Hi there! I go by the name **LBlend** on the internet. I'm a professional code m
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/></a>
 <a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a>
 
-### Learning
-
-*Technologies that I am in the process of learning or want to do a project in*
-
-<a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-
-### Potential future endeavors
-
-*Technologies that I want to take a look at in the future*
-
-<a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/></a>
-<a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>
-
-
 ## Config
 
 Check out my [dotfiles](https://github.com/LBlend/dotfiles)
