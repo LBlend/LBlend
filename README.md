@@ -1,6 +1,6 @@
 # Morn 👋
 
-Hi there! I go by the name **LBlend** on the internet. I'm a professional code monkey doing monkey business.
+Hi there! I go by the name **LBlend** on the internet. I'm a ~~professional~~ code monkey doing monkey business.
 
 <p align="center">
   <strong><a href="https://furumo.eu">Website (WIP)</a></strong> |
